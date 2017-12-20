@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shopkick.shopkick</string>
+				<string>com.shopkick.debug</string>
 				<key>bundle-version</key>
 				<string>5.2.90</string>
 				<key>kind</key>
